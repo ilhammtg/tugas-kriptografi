@@ -1,1 +1,2 @@
-# install library cryptography with $ pip install cryptography
+# install library cryptography
+$ pip install cryptography
